@@ -1,8 +1,18 @@
 # Eazy Language
  A simple programming language written and inspired by Python with a base on being easy to understand by non-programmers. Eazy's syntax is designed to be easy to learn and use, with a focus on basic programming concepts. While it currently has limited functionality, it has the potential to be expanded and improved over time.
  
+# How to Run
+- Ensure you have the latest version of Python3 installed onto your computer.
+- Download the repository or fork your own version
+- Edit the `.ez` file using a custom file extension editor, or notepad.
+- Write your program, and save it
+- Right click the `.ez` file
+- Select "open with"
+- Select "browse more apps"
+- Select the `eazy-interpreter.bat` file.
+- Double click the `.bat` file, it should now run your program!
  
-# Here are some key features of Eazy's syntax:
+# Here are some key features of Eazy's syntax
 
 ## String Literals 
 Strings in Eazy are surrounded by double quotes.
